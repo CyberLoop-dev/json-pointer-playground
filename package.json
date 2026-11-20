@@ -1,0 +1,9 @@
+{
+  "name": "json-pointer-playground",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Resolve RFC 6901 JSON Pointer expressions against sample JSON documents in a local browser tool.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
